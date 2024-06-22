@@ -1,0 +1,29 @@
+i{
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+}
+footer{
+    background-color: greenyellow;
+   
+}
+footer{
+    background-color: greenyellow;
+}
+section{
+    height: 490px;
+}
+
+.icon{
+    display: inline-block;
+    margin-right: 200px;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.bio{
+   display: inline-block;
+   
+}
+#user{
+    font-size: 200px;
+}

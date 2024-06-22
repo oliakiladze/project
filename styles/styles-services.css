@@ -1,0 +1,40 @@
+i{
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+}
+footer{
+    background-color: greenyellow;
+    margin-top: auto;
+   
+}
+.main{
+    height: 500px;
+}
+
+.link{
+    margin: 500px;
+    background-color: rgb(34, 246, 34);    
+}
+article{
+    width: 1100px;
+    margin: auto;
+    font-size: 20px;
+}
+.headline{
+    color: greenyellow;
+    font-size: 30px;
+    font-weight: 300px;
+    display: block;
+}
+img{
+    width: 700px;
+    height: 500px;
+    margin-left: 300px;
+}
+form{
+    margin: 100px;
+}
+.bullets{
+    margin-bottom: 20px;
+}

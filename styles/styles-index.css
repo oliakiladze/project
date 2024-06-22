@@ -1,0 +1,23 @@
+i{
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+}
+footer{
+    background-color: greenyellow;
+   
+}
+.index{
+    color: greenyellow;
+    font-size: 30px;
+    text-align: center;
+    text-wrap: wrap;
+    background-image: url("../images/3.gif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 500px;
+    margin:  auto;
+    
+  }
