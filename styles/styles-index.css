@@ -1,14 +1,6 @@
-i{
-    height: 100px;
-    width: 100px;
-    font-size: 50px;
-}
-footer{
-    background-color: greenyellow;
-   
-}
-.index{
-    color: greenyellow;
+
+section{
+    color: green;
     font-size: 30px;
     text-align: center;
     text-wrap: wrap;
@@ -16,8 +8,27 @@ footer{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    width: 500px;
-    height: 500px;
+    width: 600px;
+    height: 600px;
     margin:  auto;
+    margin-top: 50px;
+    font-weight: bolder;
     
   }
+footer {
+    background-color: rgb(4, 61, 4);
+    text-align: center;
+    height: 40px;
+    margin-top: 36%;
+}
+
+footer i {
+    color: white;
+    margin: 0 10px;
+    font-size: 20px;
+    margin: 10px 10px;
+}
+
+footer i:hover {
+    color: #ddd;
+}

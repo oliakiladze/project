@@ -1,40 +1,92 @@
-i{
-    height: 100px;
-    width: 100px;
-    font-size: 50px;
-}
-footer{
-    background-color: greenyellow;
-    margin-top: auto;
-   
-}
-.main{
-    height: 500px;
+
+body {
+    background-color: #f8f9fa;
+    line-height: 1.6;
 }
 
-.link{
-    margin: 500px;
-    background-color: rgb(34, 246, 34);    
+section {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 1400px;
+    background-color: white;
+    box-shadow: 0 10px 20px rgb(68, 188, 68);
+    border-radius: 30px;
 }
-article{
-    width: 1100px;
-    margin: auto;
-    font-size: 20px;
-}
-.headline{
-    color: greenyellow;
+
+.headline {
     font-size: 30px;
-    font-weight: 300px;
+    margin-top: 20px;
+    color:rgb(15, 124, 15) ;
+    font-weight: bolder;
+}
+
+article {
+    margin-top: 10px;
+    font-size: 20px;
+    color: black;
+}
+
+img {
     display: block;
+    margin: 20px auto;
+    width: 600px;
+    height: 400px;
+    border-radius: 20px;
 }
-img{
-    width: 700px;
-    height: 500px;
-    margin-left: 300px;
+
+form {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
 }
-form{
-    margin: 100px;
+
+form .text {
+    flex: 1;
+    margin-right: 20px;
 }
-.bullets{
-    margin-bottom: 20px;
+
+form .form {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+form .text input[type="text"]{
+    width: 756px; 
+    height: 298px; 
+} 
+form .bullets, form .text input[type="text"] {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 3px solid #059c60;
+    border-radius: 20px;
+}
+
+
+form input[type="submit"] {
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    background-color: #059c60;
+}
+
+
+
+footer {
+    background-color: rgb(4, 61, 4);
+    text-align: center;
+    height: 40px;
+    margin-top: 36%;
+}
+
+footer i {
+    color: white;
+    margin: 0 10px;
+    font-size: 20px;
+    margin: 10px 10px;
+}
+
+footer i:hover {
+    color: #ddd;
 }
