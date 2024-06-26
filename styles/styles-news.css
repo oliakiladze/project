@@ -1,20 +1,19 @@
-/* General Styles */
+
 body {
-    font-family: Arial, sans-serif;
     background-color: #f8f9fa;
     color: #333;
     line-height: 1.6;
-    padding-bottom: 100px; /* To avoid overlap with fixed footer */
+    padding-bottom: 100px; 
 }
 
 
 section {
     padding: 20px;
     margin: 20px auto;
-    max-width: 800px;
+    max-width: 1400px;
     background-color: white;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    border-radius: 5px;
+    box-shadow: 0 10px 20px rgb(68, 188, 68);
+    border-radius: 30px;
 }
 .headline {
     font-size: 30px;
