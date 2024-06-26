@@ -16,6 +16,12 @@ section {
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     border-radius: 5px;
 }
+.headline {
+    font-size: 30px;
+    margin-top: 20px;
+    color:rgb(15, 124, 15) ;
+    font-weight: bolder;
+}
 
 
 footer {
