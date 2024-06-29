@@ -52,7 +52,7 @@ form .form {
     justify-content: space-between;
 }
 form .text input[type="text"]{
-    width: 700px;
+    width: 600px;
     height: 300px;
 }
 form .bullets, form .text input[type="text"] {
