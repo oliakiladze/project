@@ -19,6 +19,16 @@ section {
     font-weight: bolder;
 
 }
+.link{
+    text-decoration: none;
+    color: green;
+}
+#arrow{
+    font-size: 15px;
+    margin-left: 10px;
+    color:green;
+}
+
 
 article {
     margin-top: 10px;
